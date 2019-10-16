@@ -6,4 +6,4 @@ def bark
   puts "woof"
   @Dog.bark
 end
-
+end
