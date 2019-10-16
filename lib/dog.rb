@@ -1,6 +1,6 @@
 class @Dog # Your code goes here!
 chien = @Dog.new
-def D@og.name= "chien"
+def @Dog.name= "chien"
 end
 def bark
   puts "woof"
