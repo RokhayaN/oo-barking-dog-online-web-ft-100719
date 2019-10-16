@@ -1,3 +1,7 @@
 class Dog # Your code goes here!
-def Dog.name= "chien'
+chien = Dog.new
+def Dog.name= "chien"
+end
+def 
+
 
